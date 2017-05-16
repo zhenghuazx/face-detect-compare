@@ -3,7 +3,7 @@ This is a partial project from PI-GO which is an experimental and amazon-go-like
 
 The whole project is still under development but the first demo has been demoed on Monday, May 15, 2017. 
 
-My project here is to create a facial detection and matching server to (1) cache customers' uuid and facial features; (2) return the uuid for any image of customers' faces taken when they are taking the product from the shelf. This process will be trigered by the sensor.
+"face-detect-compare" project aims to create a facial detection and matching server to (1) cache customers' uuid and facial features; (2) return the uuid for any image of customers' faces taken when they are taking the product from the shelf. This process will be trigered by the sensor.
 
 Functionality
 =======
