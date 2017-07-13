@@ -1,7 +1,7 @@
 # pi-go
 This is a partial project from PI-GO which is an experimental and amazon-go-like project started by some software engineers and data scientists in Pointinside, Derek, Shi, Hua Zheng, John Hansler, Tom Walsh, Wenwen Song. In PI-Go, We try to combine the sensor and computer vision to create a "walk-in-walk-out" store setup.
 
-The whole project start 4 days ago and is still under development. In fact, a lot of codes are still ugly and might be changeed later on, but the first demo has been demoed on Monday, May 15, 2017. 
+The whole project is still under development. In fact, a lot of codes are still ugly and might be changeed later on, but the first demo has been demoed on Monday, May 15, 2017. 
 
 This "face-detect-compare" project aims to create a facial detection and matching server to (1) cache customers' uuid and facial features; (2) return the uuid for any image of customers' faces taken when they are taking the product from the shelf. This process will be trigered by the sensor.
 
